@@ -1,4 +1,4 @@
-[https://img.shields.io/github/issues/lubazantova-cen68152/new-repo](https://img.shields.io/github/issues/lubazantova-cen68152/new-repo)
+# [https://img.shields.io/github/issues/lubazantova-cen68152/new-repo](https://img.shields.io/github/issues/lubazantova-cen68152/new-repo)
 # new-repo
 
 Upravte v GitHub soubor README.md (přidejte nadpis se jménem vašeho projektu a krátký popis, k čemu projekt slouží) a změnu commitněte s commit message: "Add project info".
